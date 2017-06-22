@@ -9,4 +9,5 @@ public class StringUtils {
     public static boolean isRight(){
         return true;
     }
+
 }
